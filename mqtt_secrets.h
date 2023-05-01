@@ -1,0 +1,3 @@
+#define SECRET_MQTT_USERNAME "CigWBzUqNiU9MgsyJwYqJz0"
+#define SECRET_MQTT_CLIENT_ID "CigWBzUqNiU9MgsyJwYqJz0"
+#define SECRET_MQTT_PASSWORD "xMmSvovC/Fk5mfHAMuSD8rfc"
