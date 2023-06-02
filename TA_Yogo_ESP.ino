@@ -19,8 +19,8 @@ bool mqtt = false;
 #define SERIAL_LEN   1000
 char text[SERIAL_LEN];
 
-char ssid[] = "RND_Wifi";
-char pass[] = "RND12345";
+char ssid[] = "GalaxyA51_Go";
+char pass[] = "Ba71ng4n";
 
 typedef struct{
     float voltage;
